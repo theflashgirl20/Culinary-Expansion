@@ -1,0 +1,12 @@
+{
+    "Name": "Culinary Expansion",
+    "Author": "theflashgirl20",
+    "Version": "1.0.1",
+    "Description": "I like food ok",
+    "UniqueID": "theflashgirl20.CulinaryExpansion",
+	"ContentPackFor": {
+    	"UniqueID": "spacechase0.JsonAssets"
+    },
+    "MinimumApiVersion": "3.0.0"
+    
+}
