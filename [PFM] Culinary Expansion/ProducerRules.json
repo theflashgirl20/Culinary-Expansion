@@ -3,7 +3,7 @@
         "ProducerName": "Furnace",
         "InputIdentifier": 2038,
         "InputStack": 1,
-        "FuelIdentifier": null,
+        "FuelIdentifier": 382,
         "FuelStack": 1,
         "MinutesUntilReady": 20,
         "OutputIdentifier": 216,

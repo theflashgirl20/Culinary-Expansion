@@ -3,9 +3,8 @@
   "Author": "theflashgirl20",
   "Version": "1.0.0",
   "Description": "New way of cooking",
-  "UniqueID": "theflashgirl20.CulinaryExpansion",
+  "UniqueID": "theflashgirl20.PFM.CulinaryExpansion",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:6008" ],
   "Dependencies": [
 	  { "UniqueID": "Digus.ProducerFrameworkMod", "MinimumVersion": "1.4.0" }
   ],
