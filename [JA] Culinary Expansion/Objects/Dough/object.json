@@ -1,7 +1,7 @@
 {
   
   "Name": "Dough",
-  "Description": "A loaf of bread filled with delicious honey.",
+  "Description": "A mix of oil and flour.",
   "Category": "Cooking",
   "Edibility": -300,
   "EdibleIsDrink": false,
