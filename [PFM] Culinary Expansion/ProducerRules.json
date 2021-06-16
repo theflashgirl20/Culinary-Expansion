@@ -1,7 +1,7 @@
 {
   
         "ProducerName": "Furnace",
-        "InputIdentifier": 2038,
+        "InputIdentifier": "Dough",
         "InputStack": 1,
         "FuelIdentifier": 382,
         "FuelStack": 1,

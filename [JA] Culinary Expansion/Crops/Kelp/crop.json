@@ -1,0 +1,25 @@
+{
+    "Name": "Kelp",
+    "Price": "100",
+    "Product": "Kelp",
+    "SeedName": "Kelp Seeds",
+    "SeedDescription": "Plant these in the spring or summer near water",
+    "Type": "Vegetable",
+    "CropType": "Paddy",
+    "Seasons": ["spring", "summer"],
+    "Phases": [ 1, 2, 3, 3, 2 ],
+    "RegrowthPhase": 1,
+    "HarvestWithScythe": true,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1
+    },
+
+    "SeedPurchasePrice": 65,
+    "SeedPurchaseFrom": "Marlon"
+
+}
