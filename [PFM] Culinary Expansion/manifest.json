@@ -4,7 +4,7 @@
   "Version": "1.1.0",
   "Description": "New way of cooking",
   "UniqueID": "theflashgirl20.PFM.CulinaryExpansion",
-  "MinimumApiVersion": "3.0.0",
+  "MinimumApiVersion": "3.7.3",
   "Dependencies": [
 	  { "UniqueID": "Digus.ProducerFrameworkMod", "MinimumVersion": "1.4.0" }
   ],
