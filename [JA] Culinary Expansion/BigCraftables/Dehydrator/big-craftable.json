@@ -1,0 +1,23 @@
+{
+  "Name": "Dehydrator",
+  "Description": "Dries food.",
+  "Price": 0,
+  "ProvidesLight": false,
+  "ReserveExtraIndexCount": 5,
+  "Recipe":
+  {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 335,
+        "Count": 3
+        },
+      {
+        "Object": 388,
+        "Count": 20
+      
+        }],
+    "CanPurchase": false,
+    "IsDefault": true
+  }
+}
