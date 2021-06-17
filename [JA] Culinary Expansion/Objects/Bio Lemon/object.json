@@ -1,0 +1,33 @@
+{
+  
+  "Name": "Bio Lemon",
+  "Description": "A soury goodness for those who like to eat the lemon raw. It doesn't have additives",
+  "Category": "Vegetable",
+  "Edibility": 40,
+  "EdibleIsDrink": false,
+   "CanPurchase": true,
+   "PurchaseFrom": "Pierre",
+   "PurchasePrice": 100,
+   "PurchaseRequirements": null,
+ "EdibleBuffs": 
+ {
+   
+    "Farming": 2,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": 3,
+	"Defense": 1,
+	"Attack": 0,
+    "Duration": 600
+    
+  },
+  
+  "Price": 50,
+  "IsColored": false,
+  "Recipe": null
+    
+}

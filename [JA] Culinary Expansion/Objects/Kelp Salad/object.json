@@ -1,0 +1,63 @@
+{
+  
+  "Name": "Kelp Salad",
+  "Description": "A nice healthy snack",
+  "Category": "Cooking",
+  "Edibility": 40,
+  "EdibleIsDrink": false,
+ "EdibleBuffs": 
+ {
+   
+    "Farming": 4,
+    "Fishing": 2,
+    "Mining": 0,
+    "Luck": 0,
+	"Foraging": 0,
+	"MaxStamina": 0,
+    "MagnetRadius": 2,
+	"Speed": 3,
+	"Defense": 3,
+	"Attack": 0,
+    "Duration": 600
+    
+  },
+  
+  "Price": 500,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 2,
+    "Ingredients": 
+    [
+      {
+	    
+        "Object": "Dried Kelp" ,
+        "Count": 1
+        
+      },
+	  {
+	    
+        "Object": "Bio Lemon",
+        "Count": 1
+        
+      },
+    {
+      
+        "Object": 247,
+        "Count": 1
+      
+      },
+    {
+      
+        "Object": 399,
+        "Count": 1
+        
+      }
+    ],
+    
+    "CanPurchase": true,
+    "PurchaseFrom": "Gus",
+    "PurchasePrice": 1000,
+    "PurchaseRequirements": null
+ 
+}
+}

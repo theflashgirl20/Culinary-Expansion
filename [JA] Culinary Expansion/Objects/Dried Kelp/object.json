@@ -1,0 +1,16 @@
+{
+  
+  "Name": "Dried Kelp",
+  "Description": "Almost ready to eat",
+  "Category": "Vegetable",
+  "Edibility": 40,
+  "EdibleIsDrink": false,
+  "CanPurchase": true,
+  "PurchaseFrom": "Pierre",
+  "PurchasePrice": 1000,
+ "EdibleBuffs": null,
+  "Price": 400,
+  "IsColored": false,
+  "Recipe": null
+ 
+}

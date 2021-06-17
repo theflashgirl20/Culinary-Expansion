@@ -1,22 +1,46 @@
+[
 {
+
+  "ProducerName": "Furnace",
+  "InputIdentifier": "Dough",
+  "InputStack": 1,
+  "FuelIdentifier": 382,
+  "FuelStack": 1,
+  "MinutesUntilReady": 20,
+  "OutputIdentifier": 216,
+  "OutputName": null,
+  "PreserveType": null,
+  "InputPriceBased": false,
+  "OutputPriceIncrement": 0,
+  "OutputPriceMultiplier": 1,
+  "KeepInputQuality": false,
+  "OutputQuality": 0,
+  "OutputStack": 1,
+  "Sounds": ["furnace"],
+  "PlacingAnimation": null,
+  "PlacingAnimationColorName":"White"
   
-        "ProducerName": "Furnace",
-        "InputIdentifier": "Dough",
-        "InputStack": 1,
-        "FuelIdentifier": 382,
-        "FuelStack": 1,
-        "MinutesUntilReady": 20,
-        "OutputIdentifier": 216,
-        "OutputName": null,
-        "PreserveType": null,
-        "InputPriceBased": false,
-        "OutputPriceIncrement": 0,
-        "OutputPriceMultiplier": 1,
-        "KeepInputQuality": false,
-        "OutputQuality": 0,
-        "OutputStack": 1,
-        "Sounds": ["furnace"],
-        "PlacingAnimation": null,
-        "PlacingAnimationColorName": "White"
-        
-} 
+  },
+{
+
+"ProducerName": "Dehydrator",
+"InputIdentifier": "Kelp",
+"InputStack": 1,
+"FuelIdentifier": null,
+"FuelStack": 1,
+"MinutesUntilReady": 20,
+"OutputIdentifier": "Dried Kelp",
+"OutputName": null,
+"PreserveType": null,
+"InputPriceBased": false,
+"OutputPriceIncrement": 0,
+"OutputPriceMultiplier": 1,
+"KeepInputQuality": false,
+"OutputQuality": 0,
+"OutputStack": 1,
+"Sounds": ["furnace"],
+"PlacingAnimation": null,
+"PlacingAnimationColorName": "White"
+
+}
+]
